@@ -13,12 +13,16 @@
 * [Icomoon]( https://icomoon.io/ "Icomoon" )
 * [Unsplash]( https://unsplash.com/ "Unsplash" )
 
+## Верстка
+
 **Верстка** производилась с использованием **шаблона**:
 - [CSSSR Project Template]( https://github.com/CSSSR/csssr-project-template "CSSSR Project Template" )
 
 ... из исходников в формате PSD ( **Adobe Photoshop** и [Adobe Creative Cloud]( https://assets.adobe.com/ "Adobe Creative Cloud" ) ).
 
-### Поддержка браузерами:
+## Кроссбраузерность
+
+**Поддержка браузерами**:
 
 * Firefox+
 * Chrome+
